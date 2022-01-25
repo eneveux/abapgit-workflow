@@ -25,3 +25,4 @@ CLASS zcl_aw_content IMPLEMENTATION.
     rv_text = |{ iv_input } Tutorial|.
   ENDMETHOD.
 ENDCLASS.
+* This is a comment for EN
