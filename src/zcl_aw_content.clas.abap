@@ -26,3 +26,4 @@ CLASS zcl_aw_content IMPLEMENTATION.
   ENDMETHOD.
 ENDCLASS.
 * This is a comment for EN
+*This is a another test
