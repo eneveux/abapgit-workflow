@@ -12,40 +12,6 @@
      <FUNCNAME>ZFM_AW_RFC</FUNCNAME>
      <REMOTE_CALL>R</REMOTE_CALL>
      <SHORT_TEXT>Function Module for abapGit Workflow Tutorial</SHORT_TEXT>
-     <IMPORT>
-      <RSIMP>
-       <PARAMETER>IV_INT_CUST_ID</PARAMETER>
-       <TYP>STRING</TYP>
-      </RSIMP>
-     </IMPORT>
-     <EXPORT>
-      <RSEXP>
-       <PARAMETER>EV_NAME</PARAMETER>
-       <TYP>STRING</TYP>
-      </RSEXP>
-     </EXPORT>
-     <EXCEPTION>
-      <RSEXC>
-       <EXCEPTION>CUST_NOT_FOUND</EXCEPTION>
-      </RSEXC>
-     </EXCEPTION>
-     <DOCUMENTATION>
-      <RSFDO>
-       <PARAMETER>IV_INT_CUST_ID</PARAMETER>
-       <KIND>P</KIND>
-       <INDEX> 001</INDEX>
-      </RSFDO>
-      <RSFDO>
-       <PARAMETER>EV_NAME</PARAMETER>
-       <KIND>P</KIND>
-       <INDEX> 002</INDEX>
-      </RSFDO>
-      <RSFDO>
-       <PARAMETER>CUST_NOT_FOUND</PARAMETER>
-       <KIND>X</KIND>
-       <INDEX> 003</INDEX>
-      </RSFDO>
-     </DOCUMENTATION>
     </item>
    </FUNCTIONS>
   </asx:values>
