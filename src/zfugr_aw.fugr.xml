@@ -4,7 +4,6 @@
   <asx:values>
    <AREAT>Function Group for abapGit Workflow Tut</AREAT>
    <INCLUDES>
-    <SOBJ_NAME>LZFUGR_AWTOP</SOBJ_NAME>
     <SOBJ_NAME>SAPLZFUGR_AW</SOBJ_NAME>
    </INCLUDES>
    <FUNCTIONS>
